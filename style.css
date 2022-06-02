@@ -1,0 +1,148 @@
+body {
+	font-family: sans-serif;
+	text-align: center;
+}
+
+
+h1 {
+	font-size: 80px;
+	word-spacing: -30px;
+	margin-top: 50px;
+}
+
+
+.h1images {
+	display: inline-block;
+}
+
+
+h2 {
+	font-size: 16px;
+	font-weight: normal;
+	color: #009dff;
+	display: inline-block;
+}
+
+
+h3 {
+	font-size: 20px;
+	font-weight: normal;
+	color: #cc0000;
+	text-align: left;
+	padding-left: 40px;
+	padding-top: 50px;
+	padding-bottom: 30px;
+	border-bottom-style: solid;
+	border-bottom-color: #D3D3D3;
+	border-bottom-width: 0.2px;
+}
+
+
+h4 {
+	font-size: 18px; 
+	font-weight: bold; 
+	word-spacing: -30px;
+	text-align: left; 
+	margin-left: 20px;
+}
+
+
+h5 {
+	font-size: 16px; 
+	text-align: left; 
+	margin-left: 40px; 
+	margin-top: 60px; 
+	margin-bottom: 20px;
+}
+
+
+a {
+	color: black;
+	font-size: 14px;
+	text-decoration: none;
+	float: right;
+	margin: 8px;
+}
+
+
+a:hover {
+	text-decoration: underline;
+}
+
+
+input.submit1 {
+	background-color: #F5F5F5;
+	border-style: none;
+	padding: 10px;
+}
+
+
+input.submit1:hover {
+	background-color: #ECECEC;
+	border-style: solid;
+	border-color: grey;
+	border-width: 0.5px;
+	border-radius: 5px;
+}
+
+
+#form2 {
+	text-align: left;
+}
+
+
+input.submit2 {
+	color: white;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #6495ED;
+	border: none;
+	border-radius: 3px;
+	padding: 10px;
+	margin-left: 730px;
+	margin-top: 10px;
+}
+
+
+input.submit2:hover {
+	background-color: #0F52BA;
+}
+
+
+input.search1 {
+	font-size: 16px;
+	width: 600px; 
+	height: 50px; 
+	border-color: #D3D3D3; 
+	border-width: 0.5px;
+	border-radius: 25px; 
+	box-sizing: border-box;
+	margin-bottom: 30px;
+	margin-top: -20px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+
+input.search2 {
+	font-size: 14px;
+	width: 600px; 
+	height: 25px; 
+	border-color: #D3D3D3; 
+	border-width: 0.5px;
+	box-sizing: border-box;
+	margin-bottom: 30px;
+	margin-top: -20px;
+	margin-left: 30px;
+	padding-left: 10px;
+	padding-right: 30px;
+}
+
+
+label {
+	font-size: 14px;
+	width: 180px;
+	padding-left: 40px;
+	display: block;
+	float: left;
+}
